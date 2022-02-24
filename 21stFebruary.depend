@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645457173 source:c:\users\lenovo\onedrive\desktop\21stfebruary\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+
